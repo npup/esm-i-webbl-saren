@@ -4,10 +4,10 @@ Det går bra att använda ESM, importer osv i webbläsaren.
 
 Checka ut:
 
-    git clone ..
-    cd ..
+    git clone git@github.com:npup/esm-i-webblasaren.git
+    cd esm-i-webblasaren
 
-Installera den lilla servern och kär projektet
+Installera den lilla servern och kör projektet
 
     npm i
     npm start
