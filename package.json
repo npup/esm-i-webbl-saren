@@ -1,0 +1,15 @@
+{
+    "name": "esm-in-browser",
+    "version": "1.0.0",
+    "main": "index.js",
+    "keywords": [],
+    "author": "",
+    "license": "ISC",
+    "description": "",
+    "dependencies": {
+        "serve": "^14.2.3"
+    },
+    "scripts": {
+        "start": "serve -p 2999 ./site"
+    }
+}
